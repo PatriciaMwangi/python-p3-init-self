@@ -377,3 +377,9 @@ sure.
 - [__init__ in Python](https://www.geeksforgeeks.org/__init__-in-python/)
 - [Python self](https://www.w3schools.com/python/gloss_python_self.asp)
 - [What do __init__ and self do in Python?](https://stackoverflow.com/questions/625083/what-do-init-and-self-do-in-python)
+
+
+
+
+
+$ sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl
